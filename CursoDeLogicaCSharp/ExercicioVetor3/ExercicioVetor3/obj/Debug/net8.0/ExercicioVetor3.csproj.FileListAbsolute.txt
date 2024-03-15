@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\bin\Debug\net8.0\ExercicioVetor3.exe
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\bin\Debug\net8.0\ExercicioVetor3.deps.json
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\bin\Debug\net8.0\ExercicioVetor3.runtimeconfig.json
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\bin\Debug\net8.0\ExercicioVetor3.dll
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\bin\Debug\net8.0\ExercicioVetor3.pdb
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\obj\Debug\net8.0\ExercicioVetor3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\obj\Debug\net8.0\ExercicioVetor3.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\obj\Debug\net8.0\ExercicioVetor3.AssemblyInfo.cs
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\obj\Debug\net8.0\ExercicioVetor3.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\obj\Debug\net8.0\ExercicioVetor3.dll
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\obj\Debug\net8.0\refint\ExercicioVetor3.dll
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\obj\Debug\net8.0\ExercicioVetor3.pdb
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\obj\Debug\net8.0\ExercicioVetor3.genruntimeconfig.cache
+C:\Estudos\Repositorios\ExercicioVetor3\ExercicioVetor3\obj\Debug\net8.0\ref\ExercicioVetor3.dll

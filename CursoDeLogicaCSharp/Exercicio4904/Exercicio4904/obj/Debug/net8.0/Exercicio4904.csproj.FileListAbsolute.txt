@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\bin\Debug\net8.0\Exercicio4904.exe
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\bin\Debug\net8.0\Exercicio4904.deps.json
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\bin\Debug\net8.0\Exercicio4904.runtimeconfig.json
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\bin\Debug\net8.0\Exercicio4904.dll
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\bin\Debug\net8.0\Exercicio4904.pdb
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\obj\Debug\net8.0\Exercicio4904.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\obj\Debug\net8.0\Exercicio4904.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\obj\Debug\net8.0\Exercicio4904.AssemblyInfo.cs
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\obj\Debug\net8.0\Exercicio4904.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\obj\Debug\net8.0\Exercicio4904.dll
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\obj\Debug\net8.0\refint\Exercicio4904.dll
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\obj\Debug\net8.0\Exercicio4904.pdb
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\obj\Debug\net8.0\Exercicio4904.genruntimeconfig.cache
+C:\Estudos\Repositorios\Exercicio4904\Exercicio4904\obj\Debug\net8.0\ref\Exercicio4904.dll

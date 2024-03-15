@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\obj\Debug\net8.0\ConversaodeTempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\obj\Debug\net8.0\ConversaodeTempo.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\obj\Debug\net8.0\ConversaodeTempo.AssemblyInfo.cs
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\obj\Debug\net8.0\ConversaodeTempo.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\bin\Debug\net8.0\ConversaodeTempo.exe
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\bin\Debug\net8.0\ConversaodeTempo.deps.json
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\bin\Debug\net8.0\ConversaodeTempo.runtimeconfig.json
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\bin\Debug\net8.0\ConversaodeTempo.dll
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\bin\Debug\net8.0\ConversaodeTempo.pdb
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\obj\Debug\net8.0\ConversaodeTempo.dll
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\obj\Debug\net8.0\refint\ConversaodeTempo.dll
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\obj\Debug\net8.0\ConversaodeTempo.pdb
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\obj\Debug\net8.0\ConversaodeTempo.genruntimeconfig.cache
+C:\Estudos\Repositorios\ConversaodeTempo\ConversaodeTempo\obj\Debug\net8.0\ref\ConversaodeTempo.dll

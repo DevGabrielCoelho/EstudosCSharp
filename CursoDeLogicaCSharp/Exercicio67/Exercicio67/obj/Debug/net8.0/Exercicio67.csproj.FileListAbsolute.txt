@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\bin\Debug\net8.0\Exercicio67.exe
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\bin\Debug\net8.0\Exercicio67.deps.json
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\bin\Debug\net8.0\Exercicio67.runtimeconfig.json
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\bin\Debug\net8.0\Exercicio67.dll
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\bin\Debug\net8.0\Exercicio67.pdb
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\obj\Debug\net8.0\Exercicio67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\obj\Debug\net8.0\Exercicio67.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\obj\Debug\net8.0\Exercicio67.AssemblyInfo.cs
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\obj\Debug\net8.0\Exercicio67.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\obj\Debug\net8.0\Exercicio67.dll
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\obj\Debug\net8.0\refint\Exercicio67.dll
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\obj\Debug\net8.0\Exercicio67.pdb
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\obj\Debug\net8.0\Exercicio67.genruntimeconfig.cache
+C:\Estudos\Repositorios\Exercicio67\Exercicio67\obj\Debug\net8.0\ref\Exercicio67.dll

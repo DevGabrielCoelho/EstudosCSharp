@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Estudos\\Repositorios\\ExercicioVetor8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D871199-01C8-486E-9E78-78D8089567C5}|ExercicioVetor8\\ExercicioVetor8.csproj|c:\\estudos\\repositorios\\exerciciovetor8\\exerciciovetor8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D871199-01C8-486E-9E78-78D8089567C5}|ExercicioVetor8\\ExercicioVetor8.csproj|solutionrelative:exerciciovetor8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudos\\Repositorios\\ExercicioVetor8\\ExercicioVetor8\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioVetor8\\Program.cs",
+              "ToolTip": "C:\\Estudos\\Repositorios\\ExercicioVetor8\\ExercicioVetor8\\Program.cs",
+              "RelativeToolTip": "ExercicioVetor8\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:09:19.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\PUM\PUM\bin\Debug\net8.0\PUM.exe
+C:\Estudos\Repositorios\PUM\PUM\bin\Debug\net8.0\PUM.deps.json
+C:\Estudos\Repositorios\PUM\PUM\bin\Debug\net8.0\PUM.runtimeconfig.json
+C:\Estudos\Repositorios\PUM\PUM\bin\Debug\net8.0\PUM.dll
+C:\Estudos\Repositorios\PUM\PUM\bin\Debug\net8.0\PUM.pdb
+C:\Estudos\Repositorios\PUM\PUM\obj\Debug\net8.0\PUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\PUM\PUM\obj\Debug\net8.0\PUM.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\PUM\PUM\obj\Debug\net8.0\PUM.AssemblyInfo.cs
+C:\Estudos\Repositorios\PUM\PUM\obj\Debug\net8.0\PUM.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\PUM\PUM\obj\Debug\net8.0\PUM.dll
+C:\Estudos\Repositorios\PUM\PUM\obj\Debug\net8.0\refint\PUM.dll
+C:\Estudos\Repositorios\PUM\PUM\obj\Debug\net8.0\PUM.pdb
+C:\Estudos\Repositorios\PUM\PUM\obj\Debug\net8.0\PUM.genruntimeconfig.cache
+C:\Estudos\Repositorios\PUM\PUM\obj\Debug\net8.0\ref\PUM.dll

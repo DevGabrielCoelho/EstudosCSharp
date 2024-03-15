@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\net8.0\ImpostoDeRenda.exe
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\net8.0\ImpostoDeRenda.deps.json
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\net8.0\ImpostoDeRenda.runtimeconfig.json
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\net8.0\ImpostoDeRenda.dll
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\net8.0\ImpostoDeRenda.pdb
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net8.0\ImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net8.0\ImpostoDeRenda.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net8.0\ImpostoDeRenda.AssemblyInfo.cs
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net8.0\ImpostoDeRenda.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net8.0\ImpostoDeRenda.dll
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net8.0\refint\ImpostoDeRenda.dll
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net8.0\ImpostoDeRenda.pdb
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net8.0\ImpostoDeRenda.genruntimeconfig.cache
+C:\Estudos\Repositorios\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net8.0\ref\ImpostoDeRenda.dll

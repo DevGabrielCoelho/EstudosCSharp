@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\bin\Debug\net8.0\SomaDeImparesConsecutivosIII.exe
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\bin\Debug\net8.0\SomaDeImparesConsecutivosIII.deps.json
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\bin\Debug\net8.0\SomaDeImparesConsecutivosIII.runtimeconfig.json
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\bin\Debug\net8.0\SomaDeImparesConsecutivosIII.dll
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\bin\Debug\net8.0\SomaDeImparesConsecutivosIII.pdb
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\obj\Debug\net8.0\SomaDeImparesConsecutivosIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\obj\Debug\net8.0\SomaDeImparesConsecutivosIII.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\obj\Debug\net8.0\SomaDeImparesConsecutivosIII.AssemblyInfo.cs
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\obj\Debug\net8.0\SomaDeImparesConsecutivosIII.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\obj\Debug\net8.0\SomaDeImparesConsecutivosIII.dll
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\obj\Debug\net8.0\refint\SomaDeImparesConsecutivosIII.dll
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\obj\Debug\net8.0\SomaDeImparesConsecutivosIII.pdb
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\obj\Debug\net8.0\SomaDeImparesConsecutivosIII.genruntimeconfig.cache
+C:\Estudos\Repositorios\SomaDeImparesConsecutivosIII\SomaDeImparesConsecutivosIII\obj\Debug\net8.0\ref\SomaDeImparesConsecutivosIII.dll

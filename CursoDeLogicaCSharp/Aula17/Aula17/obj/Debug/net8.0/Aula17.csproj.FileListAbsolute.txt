@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\Aula17\Aula17\bin\Debug\net8.0\Aula17.exe
+C:\Estudos\Repositorios\Aula17\Aula17\bin\Debug\net8.0\Aula17.deps.json
+C:\Estudos\Repositorios\Aula17\Aula17\bin\Debug\net8.0\Aula17.runtimeconfig.json
+C:\Estudos\Repositorios\Aula17\Aula17\bin\Debug\net8.0\Aula17.dll
+C:\Estudos\Repositorios\Aula17\Aula17\bin\Debug\net8.0\Aula17.pdb
+C:\Estudos\Repositorios\Aula17\Aula17\obj\Debug\net8.0\Aula17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\Aula17\Aula17\obj\Debug\net8.0\Aula17.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\Aula17\Aula17\obj\Debug\net8.0\Aula17.AssemblyInfo.cs
+C:\Estudos\Repositorios\Aula17\Aula17\obj\Debug\net8.0\Aula17.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\Aula17\Aula17\obj\Debug\net8.0\Aula17.dll
+C:\Estudos\Repositorios\Aula17\Aula17\obj\Debug\net8.0\refint\Aula17.dll
+C:\Estudos\Repositorios\Aula17\Aula17\obj\Debug\net8.0\Aula17.pdb
+C:\Estudos\Repositorios\Aula17\Aula17\obj\Debug\net8.0\Aula17.genruntimeconfig.cache
+C:\Estudos\Repositorios\Aula17\Aula17\obj\Debug\net8.0\ref\Aula17.dll

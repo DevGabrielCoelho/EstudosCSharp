@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\ForEach\ForEach\bin\Debug\net8.0\ForEach.exe
+C:\Estudos\Repositorios\ForEach\ForEach\bin\Debug\net8.0\ForEach.deps.json
+C:\Estudos\Repositorios\ForEach\ForEach\bin\Debug\net8.0\ForEach.runtimeconfig.json
+C:\Estudos\Repositorios\ForEach\ForEach\bin\Debug\net8.0\ForEach.dll
+C:\Estudos\Repositorios\ForEach\ForEach\bin\Debug\net8.0\ForEach.pdb
+C:\Estudos\Repositorios\ForEach\ForEach\obj\Debug\net8.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\ForEach\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\ForEach\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfo.cs
+C:\Estudos\Repositorios\ForEach\ForEach\obj\Debug\net8.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\ForEach\ForEach\obj\Debug\net8.0\ForEach.dll
+C:\Estudos\Repositorios\ForEach\ForEach\obj\Debug\net8.0\refint\ForEach.dll
+C:\Estudos\Repositorios\ForEach\ForEach\obj\Debug\net8.0\ForEach.pdb
+C:\Estudos\Repositorios\ForEach\ForEach\obj\Debug\net8.0\ForEach.genruntimeconfig.cache
+C:\Estudos\Repositorios\ForEach\ForEach\obj\Debug\net8.0\ref\ForEach.dll

@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\obj\Debug\net8.0\SequenciaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\obj\Debug\net8.0\SequenciaLogica.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\obj\Debug\net8.0\SequenciaLogica.AssemblyInfo.cs
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\obj\Debug\net8.0\SequenciaLogica.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\bin\Debug\net8.0\SequenciaLogica.exe
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\bin\Debug\net8.0\SequenciaLogica.deps.json
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\bin\Debug\net8.0\SequenciaLogica.runtimeconfig.json
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\bin\Debug\net8.0\SequenciaLogica.dll
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\bin\Debug\net8.0\SequenciaLogica.pdb
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\obj\Debug\net8.0\SequenciaLogica.dll
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\obj\Debug\net8.0\refint\SequenciaLogica.dll
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\obj\Debug\net8.0\SequenciaLogica.pdb
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\obj\Debug\net8.0\SequenciaLogica.genruntimeconfig.cache
+C:\Estudos\Repositorios\SequenciaLogica\SequenciaLogica\obj\Debug\net8.0\ref\SequenciaLogica.dll

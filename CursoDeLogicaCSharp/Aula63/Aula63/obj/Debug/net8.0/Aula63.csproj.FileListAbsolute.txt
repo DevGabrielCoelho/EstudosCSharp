@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\Aula63\Aula63\bin\Debug\net8.0\Aula63.exe
+C:\Estudos\Repositorios\Aula63\Aula63\bin\Debug\net8.0\Aula63.deps.json
+C:\Estudos\Repositorios\Aula63\Aula63\bin\Debug\net8.0\Aula63.runtimeconfig.json
+C:\Estudos\Repositorios\Aula63\Aula63\bin\Debug\net8.0\Aula63.dll
+C:\Estudos\Repositorios\Aula63\Aula63\bin\Debug\net8.0\Aula63.pdb
+C:\Estudos\Repositorios\Aula63\Aula63\obj\Debug\net8.0\Aula63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\Aula63\Aula63\obj\Debug\net8.0\Aula63.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\Aula63\Aula63\obj\Debug\net8.0\Aula63.AssemblyInfo.cs
+C:\Estudos\Repositorios\Aula63\Aula63\obj\Debug\net8.0\Aula63.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\Aula63\Aula63\obj\Debug\net8.0\Aula63.dll
+C:\Estudos\Repositorios\Aula63\Aula63\obj\Debug\net8.0\refint\Aula63.dll
+C:\Estudos\Repositorios\Aula63\Aula63\obj\Debug\net8.0\Aula63.pdb
+C:\Estudos\Repositorios\Aula63\Aula63\obj\Debug\net8.0\Aula63.genruntimeconfig.cache
+C:\Estudos\Repositorios\Aula63\Aula63\obj\Debug\net8.0\ref\Aula63.dll

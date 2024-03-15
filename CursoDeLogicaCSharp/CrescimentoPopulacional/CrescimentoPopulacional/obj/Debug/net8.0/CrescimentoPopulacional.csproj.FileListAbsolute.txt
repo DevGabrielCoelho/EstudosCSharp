@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\bin\Debug\net8.0\CrescimentoPopulacional.exe
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\bin\Debug\net8.0\CrescimentoPopulacional.deps.json
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\bin\Debug\net8.0\CrescimentoPopulacional.runtimeconfig.json
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\bin\Debug\net8.0\CrescimentoPopulacional.dll
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\bin\Debug\net8.0\CrescimentoPopulacional.pdb
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\obj\Debug\net8.0\CrescimentoPopulacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\obj\Debug\net8.0\CrescimentoPopulacional.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\obj\Debug\net8.0\CrescimentoPopulacional.AssemblyInfo.cs
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\obj\Debug\net8.0\CrescimentoPopulacional.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\obj\Debug\net8.0\CrescimentoPopulacional.dll
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\obj\Debug\net8.0\refint\CrescimentoPopulacional.dll
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\obj\Debug\net8.0\CrescimentoPopulacional.pdb
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\obj\Debug\net8.0\CrescimentoPopulacional.genruntimeconfig.cache
+C:\Estudos\Repositorios\CrescimentoPopulacional\CrescimentoPopulacional\obj\Debug\net8.0\ref\CrescimentoPopulacional.dll

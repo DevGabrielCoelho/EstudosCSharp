@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\Resto2\Resto2\bin\Debug\net8.0\Resto2.exe
+C:\Estudos\Repositorios\Resto2\Resto2\bin\Debug\net8.0\Resto2.deps.json
+C:\Estudos\Repositorios\Resto2\Resto2\bin\Debug\net8.0\Resto2.runtimeconfig.json
+C:\Estudos\Repositorios\Resto2\Resto2\bin\Debug\net8.0\Resto2.dll
+C:\Estudos\Repositorios\Resto2\Resto2\bin\Debug\net8.0\Resto2.pdb
+C:\Estudos\Repositorios\Resto2\Resto2\obj\Debug\net8.0\Resto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\Resto2\Resto2\obj\Debug\net8.0\Resto2.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\Resto2\Resto2\obj\Debug\net8.0\Resto2.AssemblyInfo.cs
+C:\Estudos\Repositorios\Resto2\Resto2\obj\Debug\net8.0\Resto2.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\Resto2\Resto2\obj\Debug\net8.0\Resto2.dll
+C:\Estudos\Repositorios\Resto2\Resto2\obj\Debug\net8.0\refint\Resto2.dll
+C:\Estudos\Repositorios\Resto2\Resto2\obj\Debug\net8.0\Resto2.pdb
+C:\Estudos\Repositorios\Resto2\Resto2\obj\Debug\net8.0\Resto2.genruntimeconfig.cache
+C:\Estudos\Repositorios\Resto2\Resto2\obj\Debug\net8.0\ref\Resto2.dll

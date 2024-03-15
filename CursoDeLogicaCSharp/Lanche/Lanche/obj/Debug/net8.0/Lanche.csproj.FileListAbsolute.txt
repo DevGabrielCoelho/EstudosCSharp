@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\Lanche\Lanche\bin\Debug\net8.0\Lanche.exe
+C:\Estudos\Repositorios\Lanche\Lanche\bin\Debug\net8.0\Lanche.deps.json
+C:\Estudos\Repositorios\Lanche\Lanche\bin\Debug\net8.0\Lanche.runtimeconfig.json
+C:\Estudos\Repositorios\Lanche\Lanche\bin\Debug\net8.0\Lanche.dll
+C:\Estudos\Repositorios\Lanche\Lanche\bin\Debug\net8.0\Lanche.pdb
+C:\Estudos\Repositorios\Lanche\Lanche\obj\Debug\net8.0\Lanche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\Lanche\Lanche\obj\Debug\net8.0\Lanche.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\Lanche\Lanche\obj\Debug\net8.0\Lanche.AssemblyInfo.cs
+C:\Estudos\Repositorios\Lanche\Lanche\obj\Debug\net8.0\Lanche.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\Lanche\Lanche\obj\Debug\net8.0\Lanche.dll
+C:\Estudos\Repositorios\Lanche\Lanche\obj\Debug\net8.0\refint\Lanche.dll
+C:\Estudos\Repositorios\Lanche\Lanche\obj\Debug\net8.0\Lanche.pdb
+C:\Estudos\Repositorios\Lanche\Lanche\obj\Debug\net8.0\Lanche.genruntimeconfig.cache
+C:\Estudos\Repositorios\Lanche\Lanche\obj\Debug\net8.0\ref\Lanche.dll

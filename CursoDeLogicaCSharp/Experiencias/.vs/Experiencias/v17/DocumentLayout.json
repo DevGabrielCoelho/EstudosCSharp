@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Estudos\\Repositorios\\Experiencias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC2A328-9350-4827-A075-806A4DAB7C7F}|Experiencias\\Experiencias.csproj|c:\\estudos\\repositorios\\experiencias\\experiencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC2A328-9350-4827-A075-806A4DAB7C7F}|Experiencias\\Experiencias.csproj|solutionrelative:experiencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudos\\Repositorios\\Experiencias\\Experiencias\\Program.cs",
+              "RelativeDocumentMoniker": "Experiencias\\Program.cs",
+              "ToolTip": "C:\\Estudos\\Repositorios\\Experiencias\\Experiencias\\Program.cs",
+              "RelativeToolTip": "Experiencias\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:05:14.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net8.0\TipoDeCombustivel.exe
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net8.0\TipoDeCombustivel.deps.json
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net8.0\TipoDeCombustivel.runtimeconfig.json
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net8.0\TipoDeCombustivel.dll
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net8.0\TipoDeCombustivel.pdb
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net8.0\TipoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net8.0\TipoDeCombustivel.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net8.0\TipoDeCombustivel.AssemblyInfo.cs
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net8.0\TipoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net8.0\TipoDeCombustivel.dll
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net8.0\refint\TipoDeCombustivel.dll
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net8.0\TipoDeCombustivel.pdb
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net8.0\TipoDeCombustivel.genruntimeconfig.cache
+C:\Estudos\Repositorios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net8.0\ref\TipoDeCombustivel.dll

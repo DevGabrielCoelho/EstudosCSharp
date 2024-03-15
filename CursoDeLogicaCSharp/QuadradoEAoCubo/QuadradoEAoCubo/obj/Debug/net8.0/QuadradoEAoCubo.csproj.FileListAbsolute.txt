@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net8.0\QuadradoEAoCubo.exe
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net8.0\QuadradoEAoCubo.deps.json
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net8.0\QuadradoEAoCubo.runtimeconfig.json
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net8.0\QuadradoEAoCubo.dll
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net8.0\QuadradoEAoCubo.pdb
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.AssemblyInfo.cs
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.dll
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\refint\QuadradoEAoCubo.dll
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.pdb
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.genruntimeconfig.cache
+C:\Estudos\Repositorios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\ref\QuadradoEAoCubo.dll

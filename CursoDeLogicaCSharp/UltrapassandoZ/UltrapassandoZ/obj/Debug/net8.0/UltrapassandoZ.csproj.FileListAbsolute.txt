@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\obj\Debug\net8.0\UltrapassandoZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\obj\Debug\net8.0\UltrapassandoZ.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\obj\Debug\net8.0\UltrapassandoZ.AssemblyInfo.cs
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\obj\Debug\net8.0\UltrapassandoZ.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\bin\Debug\net8.0\UltrapassandoZ.exe
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\bin\Debug\net8.0\UltrapassandoZ.deps.json
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\bin\Debug\net8.0\UltrapassandoZ.runtimeconfig.json
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\bin\Debug\net8.0\UltrapassandoZ.dll
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\bin\Debug\net8.0\UltrapassandoZ.pdb
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\obj\Debug\net8.0\UltrapassandoZ.dll
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\obj\Debug\net8.0\refint\UltrapassandoZ.dll
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\obj\Debug\net8.0\UltrapassandoZ.pdb
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\obj\Debug\net8.0\UltrapassandoZ.genruntimeconfig.cache
+C:\Estudos\Repositorios\UltrapassandoZ\UltrapassandoZ\obj\Debug\net8.0\ref\UltrapassandoZ.dll

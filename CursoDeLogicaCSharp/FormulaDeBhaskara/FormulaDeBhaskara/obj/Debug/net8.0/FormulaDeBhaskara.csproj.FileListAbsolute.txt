@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net8.0\FormulaDeBhaskara.exe
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net8.0\FormulaDeBhaskara.deps.json
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net8.0\FormulaDeBhaskara.runtimeconfig.json
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net8.0\FormulaDeBhaskara.dll
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net8.0\FormulaDeBhaskara.pdb
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.AssemblyInfo.cs
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.dll
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\refint\FormulaDeBhaskara.dll
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.pdb
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.genruntimeconfig.cache
+C:\Estudos\Repositorios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\ref\FormulaDeBhaskara.dll

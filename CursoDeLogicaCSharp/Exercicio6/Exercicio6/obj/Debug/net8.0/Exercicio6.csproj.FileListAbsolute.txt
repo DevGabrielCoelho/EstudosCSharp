@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\bin\Debug\net8.0\Exercicio6.exe
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\bin\Debug\net8.0\Exercicio6.deps.json
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\bin\Debug\net8.0\Exercicio6.runtimeconfig.json
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\bin\Debug\net8.0\Exercicio6.dll
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\bin\Debug\net8.0\Exercicio6.pdb
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.AssemblyInfo.cs
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.dll
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\obj\Debug\net8.0\refint\Exercicio6.dll
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.pdb
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.genruntimeconfig.cache
+C:\Estudos\Repositorios\Exercicio6\Exercicio6\obj\Debug\net8.0\ref\Exercicio6.dll

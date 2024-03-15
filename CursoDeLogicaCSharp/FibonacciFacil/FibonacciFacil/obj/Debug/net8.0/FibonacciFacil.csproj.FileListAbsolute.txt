@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\bin\Debug\net8.0\FibonacciFacil.exe
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\bin\Debug\net8.0\FibonacciFacil.deps.json
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\bin\Debug\net8.0\FibonacciFacil.runtimeconfig.json
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\bin\Debug\net8.0\FibonacciFacil.dll
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\bin\Debug\net8.0\FibonacciFacil.pdb
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\obj\Debug\net8.0\FibonacciFacil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\obj\Debug\net8.0\FibonacciFacil.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\obj\Debug\net8.0\FibonacciFacil.AssemblyInfo.cs
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\obj\Debug\net8.0\FibonacciFacil.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\obj\Debug\net8.0\FibonacciFacil.dll
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\obj\Debug\net8.0\refint\FibonacciFacil.dll
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\obj\Debug\net8.0\FibonacciFacil.pdb
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\obj\Debug\net8.0\FibonacciFacil.genruntimeconfig.cache
+C:\Estudos\Repositorios\FibonacciFacil\FibonacciFacil\obj\Debug\net8.0\ref\FibonacciFacil.dll

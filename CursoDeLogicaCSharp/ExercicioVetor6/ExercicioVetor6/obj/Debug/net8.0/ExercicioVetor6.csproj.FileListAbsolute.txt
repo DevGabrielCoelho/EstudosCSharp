@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\bin\Debug\net8.0\ExercicioVetor6.exe
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\bin\Debug\net8.0\ExercicioVetor6.deps.json
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\bin\Debug\net8.0\ExercicioVetor6.runtimeconfig.json
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\bin\Debug\net8.0\ExercicioVetor6.dll
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\bin\Debug\net8.0\ExercicioVetor6.pdb
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\obj\Debug\net8.0\ExercicioVetor6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\obj\Debug\net8.0\ExercicioVetor6.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\obj\Debug\net8.0\ExercicioVetor6.AssemblyInfo.cs
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\obj\Debug\net8.0\ExercicioVetor6.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\obj\Debug\net8.0\ExercicioVetor6.dll
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\obj\Debug\net8.0\refint\ExercicioVetor6.dll
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\obj\Debug\net8.0\ExercicioVetor6.pdb
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\obj\Debug\net8.0\ExercicioVetor6.genruntimeconfig.cache
+C:\Estudos\Repositorios\ExercicioVetor6\ExercicioVetor6\obj\Debug\net8.0\ref\ExercicioVetor6.dll

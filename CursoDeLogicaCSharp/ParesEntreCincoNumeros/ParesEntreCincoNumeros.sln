@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParesEntreCincoNumeros", "ParesEntreCincoNumeros\ParesEntreCincoNumeros.csproj", "{D8D36678-F851-4414-80AE-0F70F53123B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D36678-F851-4414-80AE-0F70F53123B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D36678-F851-4414-80AE-0F70F53123B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D36678-F851-4414-80AE-0F70F53123B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D36678-F851-4414-80AE-0F70F53123B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51FCDA22-88E5-4FB3-A67B-4DCFF1322828}
+	EndGlobalSection
+EndGlobal

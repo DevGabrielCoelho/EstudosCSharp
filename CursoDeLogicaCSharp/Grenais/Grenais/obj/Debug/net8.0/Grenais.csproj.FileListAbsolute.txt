@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\Grenais\Grenais\bin\Debug\net8.0\Grenais.exe
+C:\Estudos\Repositorios\Grenais\Grenais\bin\Debug\net8.0\Grenais.deps.json
+C:\Estudos\Repositorios\Grenais\Grenais\bin\Debug\net8.0\Grenais.runtimeconfig.json
+C:\Estudos\Repositorios\Grenais\Grenais\bin\Debug\net8.0\Grenais.dll
+C:\Estudos\Repositorios\Grenais\Grenais\bin\Debug\net8.0\Grenais.pdb
+C:\Estudos\Repositorios\Grenais\Grenais\obj\Debug\net8.0\Grenais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\Grenais\Grenais\obj\Debug\net8.0\Grenais.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\Grenais\Grenais\obj\Debug\net8.0\Grenais.AssemblyInfo.cs
+C:\Estudos\Repositorios\Grenais\Grenais\obj\Debug\net8.0\Grenais.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\Grenais\Grenais\obj\Debug\net8.0\Grenais.dll
+C:\Estudos\Repositorios\Grenais\Grenais\obj\Debug\net8.0\refint\Grenais.dll
+C:\Estudos\Repositorios\Grenais\Grenais\obj\Debug\net8.0\Grenais.pdb
+C:\Estudos\Repositorios\Grenais\Grenais\obj\Debug\net8.0\Grenais.genruntimeconfig.cache
+C:\Estudos\Repositorios\Grenais\Grenais\obj\Debug\net8.0\ref\Grenais.dll

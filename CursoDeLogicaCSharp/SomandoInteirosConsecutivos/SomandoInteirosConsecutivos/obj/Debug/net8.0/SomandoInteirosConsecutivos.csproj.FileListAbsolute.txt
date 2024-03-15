@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\bin\Debug\net8.0\SomandoInteirosConsecutivos.exe
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\bin\Debug\net8.0\SomandoInteirosConsecutivos.deps.json
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\bin\Debug\net8.0\SomandoInteirosConsecutivos.runtimeconfig.json
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\bin\Debug\net8.0\SomandoInteirosConsecutivos.dll
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\bin\Debug\net8.0\SomandoInteirosConsecutivos.pdb
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\obj\Debug\net8.0\SomandoInteirosConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\obj\Debug\net8.0\SomandoInteirosConsecutivos.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\obj\Debug\net8.0\SomandoInteirosConsecutivos.AssemblyInfo.cs
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\obj\Debug\net8.0\SomandoInteirosConsecutivos.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\obj\Debug\net8.0\SomandoInteirosConsecutivos.dll
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\obj\Debug\net8.0\refint\SomandoInteirosConsecutivos.dll
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\obj\Debug\net8.0\SomandoInteirosConsecutivos.pdb
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\obj\Debug\net8.0\SomandoInteirosConsecutivos.genruntimeconfig.cache
+C:\Estudos\Repositorios\SomandoInteirosConsecutivos\SomandoInteirosConsecutivos\obj\Debug\net8.0\ref\SomandoInteirosConsecutivos.dll

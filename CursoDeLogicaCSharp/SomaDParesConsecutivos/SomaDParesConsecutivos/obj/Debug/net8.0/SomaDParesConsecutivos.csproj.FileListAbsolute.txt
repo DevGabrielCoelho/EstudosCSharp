@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\bin\Debug\net8.0\SomaDParesConsecutivos.exe
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\bin\Debug\net8.0\SomaDParesConsecutivos.deps.json
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\bin\Debug\net8.0\SomaDParesConsecutivos.runtimeconfig.json
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\bin\Debug\net8.0\SomaDParesConsecutivos.dll
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\bin\Debug\net8.0\SomaDParesConsecutivos.pdb
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\obj\Debug\net8.0\SomaDParesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\obj\Debug\net8.0\SomaDParesConsecutivos.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\obj\Debug\net8.0\SomaDParesConsecutivos.AssemblyInfo.cs
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\obj\Debug\net8.0\SomaDParesConsecutivos.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\obj\Debug\net8.0\SomaDParesConsecutivos.dll
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\obj\Debug\net8.0\refint\SomaDParesConsecutivos.dll
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\obj\Debug\net8.0\SomaDParesConsecutivos.pdb
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\obj\Debug\net8.0\SomaDParesConsecutivos.genruntimeconfig.cache
+C:\Estudos\Repositorios\SomaDParesConsecutivos\SomaDParesConsecutivos\obj\Debug\net8.0\ref\SomaDParesConsecutivos.dll

@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\net8.0\TempoDeUmEvento.exe
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\net8.0\TempoDeUmEvento.deps.json
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\net8.0\TempoDeUmEvento.runtimeconfig.json
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\net8.0\TempoDeUmEvento.dll
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\net8.0\TempoDeUmEvento.pdb
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net8.0\TempoDeUmEvento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net8.0\TempoDeUmEvento.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net8.0\TempoDeUmEvento.AssemblyInfo.cs
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net8.0\TempoDeUmEvento.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net8.0\TempoDeUmEvento.dll
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net8.0\refint\TempoDeUmEvento.dll
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net8.0\TempoDeUmEvento.pdb
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net8.0\TempoDeUmEvento.genruntimeconfig.cache
+C:\Estudos\Repositorios\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net8.0\ref\TempoDeUmEvento.dll

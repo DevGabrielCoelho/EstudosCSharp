@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\OMaior\OMaior\obj\Debug\net8.0\OMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\OMaior\OMaior\obj\Debug\net8.0\OMaior.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\OMaior\OMaior\obj\Debug\net8.0\OMaior.AssemblyInfo.cs
+C:\Estudos\Repositorios\OMaior\OMaior\obj\Debug\net8.0\OMaior.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\OMaior\OMaior\bin\Debug\net8.0\OMaior.exe
+C:\Estudos\Repositorios\OMaior\OMaior\bin\Debug\net8.0\OMaior.deps.json
+C:\Estudos\Repositorios\OMaior\OMaior\bin\Debug\net8.0\OMaior.runtimeconfig.json
+C:\Estudos\Repositorios\OMaior\OMaior\bin\Debug\net8.0\OMaior.dll
+C:\Estudos\Repositorios\OMaior\OMaior\bin\Debug\net8.0\OMaior.pdb
+C:\Estudos\Repositorios\OMaior\OMaior\obj\Debug\net8.0\OMaior.dll
+C:\Estudos\Repositorios\OMaior\OMaior\obj\Debug\net8.0\refint\OMaior.dll
+C:\Estudos\Repositorios\OMaior\OMaior\obj\Debug\net8.0\OMaior.pdb
+C:\Estudos\Repositorios\OMaior\OMaior\obj\Debug\net8.0\OMaior.genruntimeconfig.cache
+C:\Estudos\Repositorios\OMaior\OMaior\obj\Debug\net8.0\ref\OMaior.dll

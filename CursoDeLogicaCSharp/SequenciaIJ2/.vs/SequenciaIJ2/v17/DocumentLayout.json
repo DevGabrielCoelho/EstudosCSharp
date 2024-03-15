@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Estudos\\Repositorios\\SequenciaIJ2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{659081F7-5F05-4A0F-BCAE-36D8B16C62DA}|SequenciaIJ2\\SequenciaIJ2.csproj|c:\\estudos\\repositorios\\sequenciaij2\\sequenciaij2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659081F7-5F05-4A0F-BCAE-36D8B16C62DA}|SequenciaIJ2\\SequenciaIJ2.csproj|solutionrelative:sequenciaij2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudos\\Repositorios\\SequenciaIJ2\\SequenciaIJ2\\Program.cs",
+              "RelativeDocumentMoniker": "SequenciaIJ2\\Program.cs",
+              "ToolTip": "C:\\Estudos\\Repositorios\\SequenciaIJ2\\SequenciaIJ2\\Program.cs",
+              "RelativeToolTip": "SequenciaIJ2\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:24:59.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

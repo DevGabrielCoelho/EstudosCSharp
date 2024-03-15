@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Estudos\\Repositorios\\QuadradoDePares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1EB33A-99EC-4223-9914-DB59D285A333}|QuadradoDePares\\QuadradoDePares.csproj|c:\\estudos\\repositorios\\quadradodepares\\quadradodepares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1EB33A-99EC-4223-9914-DB59D285A333}|QuadradoDePares\\QuadradoDePares.csproj|solutionrelative:quadradodepares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudos\\Repositorios\\QuadradoDePares\\QuadradoDePares\\Program.cs",
+              "RelativeDocumentMoniker": "QuadradoDePares\\Program.cs",
+              "ToolTip": "C:\\Estudos\\Repositorios\\QuadradoDePares\\QuadradoDePares\\Program.cs",
+              "RelativeToolTip": "QuadradoDePares\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T13:21:56.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

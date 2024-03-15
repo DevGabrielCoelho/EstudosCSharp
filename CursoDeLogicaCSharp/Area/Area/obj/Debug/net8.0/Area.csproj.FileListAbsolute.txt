@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\Area\Area\bin\Debug\net8.0\Area.exe
+C:\Estudos\Repositorios\Area\Area\bin\Debug\net8.0\Area.deps.json
+C:\Estudos\Repositorios\Area\Area\bin\Debug\net8.0\Area.runtimeconfig.json
+C:\Estudos\Repositorios\Area\Area\bin\Debug\net8.0\Area.dll
+C:\Estudos\Repositorios\Area\Area\bin\Debug\net8.0\Area.pdb
+C:\Estudos\Repositorios\Area\Area\obj\Debug\net8.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\Area\Area\obj\Debug\net8.0\Area.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\Area\Area\obj\Debug\net8.0\Area.AssemblyInfo.cs
+C:\Estudos\Repositorios\Area\Area\obj\Debug\net8.0\Area.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\Area\Area\obj\Debug\net8.0\Area.dll
+C:\Estudos\Repositorios\Area\Area\obj\Debug\net8.0\refint\Area.dll
+C:\Estudos\Repositorios\Area\Area\obj\Debug\net8.0\Area.pdb
+C:\Estudos\Repositorios\Area\Area\obj\Debug\net8.0\Area.genruntimeconfig.cache
+C:\Estudos\Repositorios\Area\Area\obj\Debug\net8.0\ref\Area.dll

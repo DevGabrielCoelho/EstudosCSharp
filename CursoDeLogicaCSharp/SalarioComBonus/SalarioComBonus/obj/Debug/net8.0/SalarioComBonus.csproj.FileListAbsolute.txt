@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\obj\Debug\net8.0\SalarioComBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\obj\Debug\net8.0\SalarioComBonus.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\obj\Debug\net8.0\SalarioComBonus.AssemblyInfo.cs
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\obj\Debug\net8.0\SalarioComBonus.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\bin\Debug\net8.0\SalarioComBonus.exe
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\bin\Debug\net8.0\SalarioComBonus.deps.json
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\bin\Debug\net8.0\SalarioComBonus.runtimeconfig.json
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\bin\Debug\net8.0\SalarioComBonus.dll
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\bin\Debug\net8.0\SalarioComBonus.pdb
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\obj\Debug\net8.0\SalarioComBonus.dll
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\obj\Debug\net8.0\refint\SalarioComBonus.dll
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\obj\Debug\net8.0\SalarioComBonus.pdb
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\obj\Debug\net8.0\SalarioComBonus.genruntimeconfig.cache
+C:\Estudos\Repositorios\SalarioComBonus\SalarioComBonus\obj\Debug\net8.0\ref\SalarioComBonus.dll

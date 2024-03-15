@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Estudos\\Repositorios\\Exercicio66\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE50E50-32EA-465C-81CF-847FE71EE8F1}|Exercicio66\\Exercicio66.csproj|c:\\estudos\\repositorios\\exercicio66\\exercicio66\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE50E50-32EA-465C-81CF-847FE71EE8F1}|Exercicio66\\Exercicio66.csproj|solutionrelative:exercicio66\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudos\\Repositorios\\Exercicio66\\Exercicio66\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio66\\Program.cs",
+              "ToolTip": "C:\\Estudos\\Repositorios\\Exercicio66\\Exercicio66\\Program.cs",
+              "RelativeToolTip": "Exercicio66\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:12:54.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

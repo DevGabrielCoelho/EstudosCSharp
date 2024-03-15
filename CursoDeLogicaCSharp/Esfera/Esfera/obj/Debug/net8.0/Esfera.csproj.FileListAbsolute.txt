@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\Esfera\Esfera\bin\Debug\net8.0\Esfera.exe
+C:\Estudos\Repositorios\Esfera\Esfera\bin\Debug\net8.0\Esfera.deps.json
+C:\Estudos\Repositorios\Esfera\Esfera\bin\Debug\net8.0\Esfera.runtimeconfig.json
+C:\Estudos\Repositorios\Esfera\Esfera\bin\Debug\net8.0\Esfera.dll
+C:\Estudos\Repositorios\Esfera\Esfera\bin\Debug\net8.0\Esfera.pdb
+C:\Estudos\Repositorios\Esfera\Esfera\obj\Debug\net8.0\Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\Esfera\Esfera\obj\Debug\net8.0\Esfera.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\Esfera\Esfera\obj\Debug\net8.0\Esfera.AssemblyInfo.cs
+C:\Estudos\Repositorios\Esfera\Esfera\obj\Debug\net8.0\Esfera.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\Esfera\Esfera\obj\Debug\net8.0\Esfera.dll
+C:\Estudos\Repositorios\Esfera\Esfera\obj\Debug\net8.0\refint\Esfera.dll
+C:\Estudos\Repositorios\Esfera\Esfera\obj\Debug\net8.0\Esfera.pdb
+C:\Estudos\Repositorios\Esfera\Esfera\obj\Debug\net8.0\Esfera.genruntimeconfig.cache
+C:\Estudos\Repositorios\Esfera\Esfera\obj\Debug\net8.0\ref\Esfera.dll

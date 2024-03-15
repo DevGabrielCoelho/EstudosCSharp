@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\bin\Debug\net8.0\AumentoDeSalario.exe
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\bin\Debug\net8.0\AumentoDeSalario.deps.json
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\bin\Debug\net8.0\AumentoDeSalario.runtimeconfig.json
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\bin\Debug\net8.0\AumentoDeSalario.dll
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\bin\Debug\net8.0\AumentoDeSalario.pdb
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net8.0\AumentoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net8.0\AumentoDeSalario.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net8.0\AumentoDeSalario.AssemblyInfo.cs
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net8.0\AumentoDeSalario.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net8.0\AumentoDeSalario.dll
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net8.0\refint\AumentoDeSalario.dll
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net8.0\AumentoDeSalario.pdb
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net8.0\AumentoDeSalario.genruntimeconfig.cache
+C:\Estudos\Repositorios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net8.0\ref\AumentoDeSalario.dll

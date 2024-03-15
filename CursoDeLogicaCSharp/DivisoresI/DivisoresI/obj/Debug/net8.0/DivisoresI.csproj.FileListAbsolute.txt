@@ -1,0 +1,14 @@
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\bin\Debug\net8.0\DivisoresI.exe
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\bin\Debug\net8.0\DivisoresI.deps.json
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\bin\Debug\net8.0\DivisoresI.runtimeconfig.json
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\bin\Debug\net8.0\DivisoresI.dll
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\bin\Debug\net8.0\DivisoresI.pdb
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\obj\Debug\net8.0\DivisoresI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\obj\Debug\net8.0\DivisoresI.AssemblyInfoInputs.cache
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\obj\Debug\net8.0\DivisoresI.AssemblyInfo.cs
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\obj\Debug\net8.0\DivisoresI.csproj.CoreCompileInputs.cache
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\obj\Debug\net8.0\DivisoresI.dll
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\obj\Debug\net8.0\refint\DivisoresI.dll
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\obj\Debug\net8.0\DivisoresI.pdb
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\obj\Debug\net8.0\DivisoresI.genruntimeconfig.cache
+C:\Estudos\Repositorios\DivisoresI\DivisoresI\obj\Debug\net8.0\ref\DivisoresI.dll

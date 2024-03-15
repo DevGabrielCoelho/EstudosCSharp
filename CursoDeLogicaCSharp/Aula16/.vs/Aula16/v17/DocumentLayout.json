@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Estudos\\Repositorios\\Aula16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A26D96-051D-44FC-BD4F-F12077BCCBEA}|Aula16\\Aula16.csproj|c:\\estudos\\repositorios\\aula16\\aula16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A26D96-051D-44FC-BD4F-F12077BCCBEA}|Aula16\\Aula16.csproj|solutionrelative:aula16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudos\\Repositorios\\Aula16\\Aula16\\Program.cs",
+              "RelativeDocumentMoniker": "Aula16\\Program.cs",
+              "ToolTip": "C:\\Estudos\\Repositorios\\Aula16\\Aula16\\Program.cs",
+              "RelativeToolTip": "Aula16\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T14:47:54.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
