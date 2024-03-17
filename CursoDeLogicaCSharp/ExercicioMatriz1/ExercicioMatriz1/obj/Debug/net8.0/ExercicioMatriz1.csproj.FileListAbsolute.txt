@@ -1,0 +1,15 @@
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\net8.0\ExercicioMatriz1.exe
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\net8.0\ExercicioMatriz1.deps.json
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\net8.0\ExercicioMatriz1.runtimeconfig.json
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\net8.0\ExercicioMatriz1.dll
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\net8.0\ExercicioMatriz1.pdb
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net8.0\ExercicioMatriz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net8.0\ExercicioMatriz1.AssemblyInfoInputs.cache
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net8.0\ExercicioMatriz1.AssemblyInfo.cs
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net8.0\ExercicioMatriz1.csproj.CoreCompileInputs.cache
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net8.0\ExercicioMatriz1.sourcelink.json
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net8.0\ExercicioMatriz1.dll
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net8.0\refint\ExercicioMatriz1.dll
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net8.0\ExercicioMatriz1.pdb
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net8.0\ExercicioMatriz1.genruntimeconfig.cache
+C:\Estudos\CursoDeLogicaCSharp\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net8.0\ref\ExercicioMatriz1.dll
