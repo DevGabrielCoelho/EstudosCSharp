@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\CursoDeLogicaCSharp\\ExercicioVetor1\\ExercicioVetor1\\ExercicioVetor1.csproj": {}
+    "C:\\Estudos\\CursoDeLogicaCSharp\\ExercicioMatriz4\\ExercicioMatriz4\\ExercicioMatriz4.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\CursoDeLogicaCSharp\\ExercicioVetor1\\ExercicioVetor1\\ExercicioVetor1.csproj": {
+    "C:\\Estudos\\CursoDeLogicaCSharp\\ExercicioMatriz4\\ExercicioMatriz4\\ExercicioMatriz4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\CursoDeLogicaCSharp\\ExercicioVetor1\\ExercicioVetor1\\ExercicioVetor1.csproj",
-        "projectName": "ExercicioVetor1",
-        "projectPath": "C:\\Estudos\\CursoDeLogicaCSharp\\ExercicioVetor1\\ExercicioVetor1\\ExercicioVetor1.csproj",
+        "projectUniqueName": "C:\\Estudos\\CursoDeLogicaCSharp\\ExercicioMatriz4\\ExercicioMatriz4\\ExercicioMatriz4.csproj",
+        "projectName": "ExercicioMatriz4",
+        "projectPath": "C:\\Estudos\\CursoDeLogicaCSharp\\ExercicioMatriz4\\ExercicioMatriz4\\ExercicioMatriz4.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\CursoDeLogicaCSharp\\ExercicioVetor1\\ExercicioVetor1\\obj\\",
+        "outputPath": "C:\\Estudos\\CursoDeLogicaCSharp\\ExercicioMatriz4\\ExercicioMatriz4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
