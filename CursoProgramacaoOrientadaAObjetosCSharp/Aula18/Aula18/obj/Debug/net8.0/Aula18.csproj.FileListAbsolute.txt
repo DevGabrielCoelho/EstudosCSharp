@@ -1,0 +1,15 @@
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\bin\Debug\net8.0\Aula18.exe
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\bin\Debug\net8.0\Aula18.deps.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\bin\Debug\net8.0\Aula18.runtimeconfig.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\bin\Debug\net8.0\Aula18.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\bin\Debug\net8.0\Aula18.pdb
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\obj\Debug\net8.0\Aula18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\obj\Debug\net8.0\Aula18.AssemblyInfoInputs.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\obj\Debug\net8.0\Aula18.AssemblyInfo.cs
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\obj\Debug\net8.0\Aula18.csproj.CoreCompileInputs.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\obj\Debug\net8.0\Aula18.sourcelink.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\obj\Debug\net8.0\Aula18.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\obj\Debug\net8.0\refint\Aula18.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\obj\Debug\net8.0\Aula18.pdb
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\obj\Debug\net8.0\Aula18.genruntimeconfig.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula18\Aula18\obj\Debug\net8.0\ref\Aula18.dll
