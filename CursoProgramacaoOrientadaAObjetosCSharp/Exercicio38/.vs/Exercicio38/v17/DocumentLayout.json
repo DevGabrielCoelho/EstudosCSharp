@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Exercicio38\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEE1799E-83AB-48C7-B183-A127547D7EB0}|Exercicio38\\Exercicio38.csproj|c:\\estudos\\cursoprogramacaoorientadaaobjetoscsharp\\exercicio38\\exercicio38\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE1799E-83AB-48C7-B183-A127547D7EB0}|Exercicio38\\Exercicio38.csproj|solutionrelative:exercicio38\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEE1799E-83AB-48C7-B183-A127547D7EB0}|Exercicio38\\Exercicio38.csproj|c:\\estudos\\cursoprogramacaoorientadaaobjetoscsharp\\exercicio38\\exercicio38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEE1799E-83AB-48C7-B183-A127547D7EB0}|Exercicio38\\Exercicio38.csproj|solutionrelative:exercicio38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE1799E-83AB-48C7-B183-A127547D7EB0}|Exercicio38\\Exercicio38.csproj|c:\\estudos\\cursoprogramacaoorientadaaobjetoscsharp\\exercicio38\\exercicio38\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE1799E-83AB-48C7-B183-A127547D7EB0}|Exercicio38\\Exercicio38.csproj|solutionrelative:exercicio38\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Triangulo.cs",
               "DocumentMoniker": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Exercicio38\\Exercicio38\\Triangulo.cs",
               "RelativeDocumentMoniker": "Exercicio38\\Triangulo.cs",
               "ToolTip": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Exercicio38\\Exercicio38\\Triangulo.cs",
               "RelativeToolTip": "Exercicio38\\Triangulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T14:26:02.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Exercicio38\\Exercicio38\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio38\\Program.cs",
               "ToolTip": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Exercicio38\\Exercicio38\\Program.cs",
               "RelativeToolTip": "Exercicio38\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABRAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T21:22:57.107Z",
               "EditorCaption": ""

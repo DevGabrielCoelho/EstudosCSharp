@@ -18,19 +18,8 @@ namespace Exercicio38
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double pX = (x.A + x.B + x.C) / 2,
-                pY = (y.A + y.B + y.C) / 2,
-                areaX = Math.Sqrt(pX * (pX - x.A) * (pX - x.B) * (pX - x.C)),
-                areaY = Math.Sqrt(pY * (pY - y.A) * (pY - y.B) * (pY - y.C));
-
-            char maior;
-
-            if (areaX > areaY) maior = 'X';
-            else maior = 'Y';
-
-            Console.WriteLine($"Área de X = {areaX.ToString("f4", CultureInfo.InvariantCulture)}\n" +
-                $"Área de Y = {areaY.ToString("f4", CultureInfo.InvariantCulture)}\n" +
-                $"Maior área: {maior}");
+            if (x.Area() > y.Area()) Console.WriteLine("A Area de X é a Maior");
+            else Console.WriteLine("A Area de Y é a Maior");
         }
     }
 }
