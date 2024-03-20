@@ -7,20 +7,21 @@ namespace Exercicio38
     {
         static void Main(string[] args)
         {
+            Triangulo x = new Triangulo(), y = new Triangulo();
             Console.WriteLine("Entre com as medidas do triângulo X:");
-            double aX = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture), 
-                bX = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture), 
-                cX = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("Entre com as medidas do triângulo Y:");
-            double aY = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture), 
-                bY = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture), 
-                cY = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double pX = (aX + bX + cX) / 2,
-                pY = (aY + bY + cY) / 2,
-                areaX = Math.Sqrt(pX * (pX - aX) * (pX - bX) * (pX - cX)),
-                areaY = Math.Sqrt(pY * (pY - aY) * (pY - bY) * (pY - cY));
+            double pX = (x.A + x.B + x.C) / 2,
+                pY = (y.A + y.B + y.C) / 2,
+                areaX = Math.Sqrt(pX * (pX - x.A) * (pX - x.B) * (pX - x.C)),
+                areaY = Math.Sqrt(pY * (pY - y.A) * (pY - y.B) * (pY - y.C));
 
             char maior;
 
