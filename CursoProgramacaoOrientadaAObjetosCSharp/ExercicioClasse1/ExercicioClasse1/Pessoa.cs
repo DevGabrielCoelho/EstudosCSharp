@@ -2,7 +2,7 @@
 {
     class Pessoa
     {
-        public string A;
-        public int B;
+        public string Nome;
+        public int Idade;
     }
 }

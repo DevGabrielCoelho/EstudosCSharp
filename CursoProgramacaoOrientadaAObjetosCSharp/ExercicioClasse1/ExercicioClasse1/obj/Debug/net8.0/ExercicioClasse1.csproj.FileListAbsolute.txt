@@ -1,0 +1,15 @@
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\bin\Debug\net8.0\ExercicioClasse1.exe
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\bin\Debug\net8.0\ExercicioClasse1.deps.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\bin\Debug\net8.0\ExercicioClasse1.runtimeconfig.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\bin\Debug\net8.0\ExercicioClasse1.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\bin\Debug\net8.0\ExercicioClasse1.pdb
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\obj\Debug\net8.0\ExercicioClasse1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\obj\Debug\net8.0\ExercicioClasse1.AssemblyInfoInputs.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\obj\Debug\net8.0\ExercicioClasse1.AssemblyInfo.cs
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\obj\Debug\net8.0\ExercicioClasse1.csproj.CoreCompileInputs.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\obj\Debug\net8.0\ExercicioClasse1.sourcelink.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\obj\Debug\net8.0\ExercicioClasse1.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\obj\Debug\net8.0\refint\ExercicioClasse1.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\obj\Debug\net8.0\ExercicioClasse1.pdb
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\obj\Debug\net8.0\ExercicioClasse1.genruntimeconfig.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioClasse1\ExercicioClasse1\obj\Debug\net8.0\ref\ExercicioClasse1.dll
