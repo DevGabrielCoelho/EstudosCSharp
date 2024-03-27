@@ -4,51 +4,64 @@ namespace Aula51
 {
     class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;      //                 //
+        private double _preco;    // OBJETO PRIVADAS //
+        private int _quantidade; //                 //
 
         public Produto()
         {
-            Preco = 5;
-            Quantidade = 10;
+            _preco = 5;
+            _quantidade = 10;
         }
 
         public Produto(string nome, double preco, int quantidade)   //            //
         {                                                          // CONSTRUTOR //
-            Nome = nome;                                          //            //
-            Preco = preco;
-            Quantidade = quantidade;
+            _nome = nome;                                         //            //
+            _preco = preco;
+            _quantidade = quantidade;
         }
         public Produto(string nome, double preco)   //            // 
         {                                          // SOBRECARGA //
-            Nome = nome;                          //            //
-            Preco = preco;
+            _nome = nome;                         //            //
+            _preco = preco;
         }
         public Produto(string nome) : this()                 //                                                      //
         {                                                   // TEST COM THIS (REFERENCIANDO UM CONSTRUTOR EM OUTRO) //
-            Nome = nome;                                   //                                                      //
+            _nome = nome;                                  //                                                      //
+        }
+
+        public string GetNome()   //                                        //
+        {                        // PARAMETRO PARA PUXAR UM OBJETO PRIVADO //
+            return _nome;       //                                        //
+        }
+
+        public void SetNome(string nome)
+        {
+            if (nome != null && nome.Length > 1)
+            {
+                _nome = nome;
+            }
         }
 
         public double ValorTotalEmEstoque()   //                                 //
         {                                    // PARAMETRO QUE NÃO RETORNA VALOR //
-            return Preco * Quantidade;      //                                 //
+            return _preco * _quantidade;    //                                 //
         }
         public void AdicionarProdutos(int quantidade)
         {
-            Quantidade += quantidade;
+            _quantidade += quantidade;
         }
         public void RemoverProdutos(int quantidade)
         {
-            Quantidade -= quantidade;
+            _quantidade -= quantidade;
         }
         public override string ToString()   //            //
         {                                  // FORMATAÇÃO //
-            return Nome                   //            //
+            return _nome                  //            //
             + ", $ "
-            + Preco.ToString("F2", CultureInfo.InvariantCulture)
+            + _preco.ToString("F2", CultureInfo.InvariantCulture)
             + ", "
-            + Quantidade
+            + _quantidade
             + " unidades, Total: $ "
             + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }

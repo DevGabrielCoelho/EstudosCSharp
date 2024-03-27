@@ -1,0 +1,15 @@
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\bin\Debug\net8.0\Aula55.exe
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\bin\Debug\net8.0\Aula55.deps.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\bin\Debug\net8.0\Aula55.runtimeconfig.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\bin\Debug\net8.0\Aula55.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\bin\Debug\net8.0\Aula55.pdb
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\obj\Debug\net8.0\Aula55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\obj\Debug\net8.0\Aula55.AssemblyInfoInputs.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\obj\Debug\net8.0\Aula55.AssemblyInfo.cs
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\obj\Debug\net8.0\Aula55.csproj.CoreCompileInputs.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\obj\Debug\net8.0\Aula55.sourcelink.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\obj\Debug\net8.0\Aula55.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\obj\Debug\net8.0\refint\Aula55.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\obj\Debug\net8.0\Aula55.pdb
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\obj\Debug\net8.0\Aula55.genruntimeconfig.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula55\obj\Debug\net8.0\ref\Aula55.dll
