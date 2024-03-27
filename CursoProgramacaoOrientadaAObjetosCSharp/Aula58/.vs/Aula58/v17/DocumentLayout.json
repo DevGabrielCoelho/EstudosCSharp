@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Aula58\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00DA1188-7AD1-4239-B88C-A543CAC4E04A}|Aula58.csproj|c:\\estudos\\cursoprogramacaoorientadaaobjetoscsharp\\aula58\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00DA1188-7AD1-4239-B88C-A543CAC4E04A}|Aula58.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00DA1188-7AD1-4239-B88C-A543CAC4E04A}|Aula58.csproj|c:\\estudos\\cursoprogramacaoorientadaaobjetoscsharp\\aula58\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00DA1188-7AD1-4239-B88C-A543CAC4E04A}|Aula58.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DA1188-7AD1-4239-B88C-A543CAC4E04A}|Aula58.csproj|C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Aula58\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DA1188-7AD1-4239-B88C-A543CAC4E04A}|Aula58.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Aula58\\Produto.cs",
               "RelativeDocumentMoniker": "Produto.cs",
               "ToolTip": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Aula58\\Produto.cs",
               "RelativeToolTip": "Produto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T19:26:09.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Aula58\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Aula58\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T19:25:54.875Z",
               "EditorCaption": ""
