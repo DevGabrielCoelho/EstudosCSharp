@@ -5,7 +5,7 @@ namespace ExercicioConstrutoresEncapsulamentos
     class Conta
     {
         private string _nome;
-        public int NumeroDaConta { get; private set; }
+        public int NumeroDaConta { get; }
         public double Saldo { get; private set; }
 
         public string Nome
