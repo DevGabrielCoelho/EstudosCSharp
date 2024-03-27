@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{6AA7EFC4-6C18-4785-B93C-A39E0BB5C894}|Aula51.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AA7EFC4-6C18-4785-B93C-A39E0BB5C894}|Aula51.csproj|c:\\estudos\\cursoprogramacaoorientadaaobjetoscsharp\\aula51\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AA7EFC4-6C18-4785-B93C-A39E0BB5C894}|Aula51.csproj|C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Aula51\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AA7EFC4-6C18-4785-B93C-A39E0BB5C894}|Aula51.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Produto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T06:44:27.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T06:44:27.201Z"
             },
             {
               "$type": "Document",
