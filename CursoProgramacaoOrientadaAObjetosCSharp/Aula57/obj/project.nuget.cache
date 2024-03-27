@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jUUmEU6vxCKfyQCoOw/o8EuhTyOxfJ3T9orYc+b0oJZnNQFPaVlT3J4WQzh2ZYYrrj4fUVVY0eYfSI8NQMessA==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\Aula57\\Aula57.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.3\\microsoft.netcore.app.host.win-x64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

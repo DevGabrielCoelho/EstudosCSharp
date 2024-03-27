@@ -1,29 +1,31 @@
 ﻿using System.Globalization;
 
-namespace Aula56
+namespace Aula57
 {
     class Produto
     {
-        private string _nome;      //                 //
-        private double _preco;    // OBJETO PRIVADAS //
-        private int _quantidade; //                 //
+        private string _nome;
+        public double Preco { get; private set; }   //                //
+                                                   // AUTO PROPERTIE //
+                                                  //                //
+        public int Quantidade { get; private set; }
 
         public Produto()
         {
-            _preco = 5;
-            _quantidade = 10;
+            Preco = 5;
+            Quantidade = 10;
         }
 
         public Produto(string nome, double preco, int quantidade)   //            //
         {                                                          // CONSTRUTOR //
             _nome = nome;                                         //            //
-            _preco = preco;
-            _quantidade = quantidade;
+            Preco = preco;
+            Quantidade = quantidade;
         }
         public Produto(string nome, double preco)   //            // 
         {                                          // SOBRECARGA //
             _nome = nome;                         //            //
-            _preco = preco;
+            Preco = preco;
         }
         public Produto(string nome) : this()                 //                                                      //
         {                                                   // TEST COM THIS (REFERENCIANDO UM CONSTRUTOR EM OUTRO) //
@@ -33,23 +35,13 @@ namespace Aula56
         public string Nome
         {
             get { return _nome; }
-            set 
+            set
             {                                             //                                                                     //
                 if (value != null && value.Length > 1)   // PARAMETRO DE PROPRIEDADE PARA MODIFICAR OU ENVIAR UM OBJETO PRIVADO //
                 {                                       //                                                                     //
                     _nome = value;
                 }
             }
-        }
-
-        public double Preco
-        {
-            get { return _preco; }
-        }
-
-        public int Quantidade
-        {
-            get { return _quantidade; }
         }
 
         public void SetNome(string nome)           //                                                              //
@@ -60,25 +52,25 @@ namespace Aula56
             }
         }
 
-        public double ValorTotalEmEstoque()   
-        {                                    
-            return _preco * _quantidade;    
+        public double ValorTotalEmEstoque()
+        {
+            return Preco * Quantidade;
         }
         public void AdicionarProdutos(int quantidade)
         {
-            _quantidade += quantidade;
+            Quantidade += quantidade;
         }
         public void RemoverProdutos(int quantidade)
         {
-            _quantidade -= quantidade;
+            Quantidade -= quantidade;
         }
         public override string ToString()   //            //
         {                                  // FORMATAÇÃO //
             return _nome                  //            //
             + ", $ "
-            + _preco.ToString("F2", CultureInfo.InvariantCulture)
+            + Preco.ToString("F2", CultureInfo.InvariantCulture)
             + ", "
-            + _quantidade
+            + Quantidade
             + " unidades, Total: $ "
             + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
