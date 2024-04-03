@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3DRPfCfqXHLFCWYdxeVv2KCgkaQTbRiHnog3dFUuRE612KacrVJMbHqqnXIVaKCIeEaDP+uUWMb9muJhfRHPEA==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\ExercicioFixacaoMatriz\\ExercicioFixacaoMatriz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.3\\microsoft.netcore.app.host.win-x64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\bin\Debug\net8.0\ExercicioFixacaoMatriz.exe
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\bin\Debug\net8.0\ExercicioFixacaoMatriz.deps.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\bin\Debug\net8.0\ExercicioFixacaoMatriz.runtimeconfig.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\bin\Debug\net8.0\ExercicioFixacaoMatriz.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\bin\Debug\net8.0\ExercicioFixacaoMatriz.pdb
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\obj\Debug\net8.0\ExercicioFixacaoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\obj\Debug\net8.0\ExercicioFixacaoMatriz.AssemblyInfoInputs.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\obj\Debug\net8.0\ExercicioFixacaoMatriz.AssemblyInfo.cs
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\obj\Debug\net8.0\ExercicioFixacaoMatriz.csproj.CoreCompileInputs.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\obj\Debug\net8.0\ExercicioFixacaoMatriz.sourcelink.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\obj\Debug\net8.0\ExercicioFixacaoMatriz.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\obj\Debug\net8.0\refint\ExercicioFixacaoMatriz.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\obj\Debug\net8.0\ExercicioFixacaoMatriz.pdb
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\obj\Debug\net8.0\ExercicioFixacaoMatriz.genruntimeconfig.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioFixacaoMatriz\obj\Debug\net8.0\ref\ExercicioFixacaoMatriz.dll
