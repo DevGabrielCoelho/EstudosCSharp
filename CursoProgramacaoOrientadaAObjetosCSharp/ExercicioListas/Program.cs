@@ -41,6 +41,7 @@ namespace ExercicioListas
                 Console.Write("Qual a porcentagem de aumento ele receberá? ");
                 double porcentagemDeAumento = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 Funcionario funcionarios2 = funcionarios.Find(x => x.Id == idDoFuncionario);
+                
                 funcionarios2.AumentarSalario(porcentagemDeAumento);
             }
             else Console.WriteLine("\nEsse ID não existe!");
