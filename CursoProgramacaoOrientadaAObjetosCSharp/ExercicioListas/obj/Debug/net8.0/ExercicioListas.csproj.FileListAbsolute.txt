@@ -1,0 +1,15 @@
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\bin\Debug\net8.0\ExercicioListas.exe
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\bin\Debug\net8.0\ExercicioListas.deps.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\bin\Debug\net8.0\ExercicioListas.runtimeconfig.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\bin\Debug\net8.0\ExercicioListas.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\bin\Debug\net8.0\ExercicioListas.pdb
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\obj\Debug\net8.0\ExercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\obj\Debug\net8.0\ExercicioListas.AssemblyInfoInputs.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\obj\Debug\net8.0\ExercicioListas.AssemblyInfo.cs
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\obj\Debug\net8.0\ExercicioListas.csproj.CoreCompileInputs.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\obj\Debug\net8.0\ExercicioListas.sourcelink.json
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\obj\Debug\net8.0\ExercicioListas.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\obj\Debug\net8.0\refint\ExercicioListas.dll
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\obj\Debug\net8.0\ExercicioListas.pdb
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\obj\Debug\net8.0\ExercicioListas.genruntimeconfig.cache
+C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioListas\obj\Debug\net8.0\ref\ExercicioListas.dll

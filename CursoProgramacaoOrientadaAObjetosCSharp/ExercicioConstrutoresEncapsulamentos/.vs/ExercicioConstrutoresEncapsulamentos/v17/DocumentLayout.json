@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\ExercicioConstrutoresEncapsulamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5ECA6D05-D0FB-4AC0-8121-C69435FA1AD5}|ExercicioConstrutoresEncapsulamentos.csproj|c:\\estudos\\cursoprogramacaoorientadaaobjetoscsharp\\exercicioconstrutoresencapsulamentos\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECA6D05-D0FB-4AC0-8121-C69435FA1AD5}|ExercicioConstrutoresEncapsulamentos.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5ECA6D05-D0FB-4AC0-8121-C69435FA1AD5}|ExercicioConstrutoresEncapsulamentos.csproj|C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\ExercicioConstrutoresEncapsulamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ECA6D05-D0FB-4AC0-8121-C69435FA1AD5}|ExercicioConstrutoresEncapsulamentos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA6D05-D0FB-4AC0-8121-C69435FA1AD5}|ExercicioConstrutoresEncapsulamentos.csproj|c:\\estudos\\cursoprogramacaoorientadaaobjetoscsharp\\exercicioconstrutoresencapsulamentos\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA6D05-D0FB-4AC0-8121-C69435FA1AD5}|ExercicioConstrutoresEncapsulamentos.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Conta.cs",
               "DocumentMoniker": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\ExercicioConstrutoresEncapsulamentos\\Conta.cs",
               "RelativeDocumentMoniker": "Conta.cs",
               "ToolTip": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\ExercicioConstrutoresEncapsulamentos\\Conta.cs",
               "RelativeToolTip": "Conta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T19:48:30.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\ExercicioConstrutoresEncapsulamentos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\ExercicioConstrutoresEncapsulamentos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:44:34.282Z"
+              "WhenOpened": "2024-03-27T19:44:34.282Z",
+              "EditorCaption": ""
             }
           ]
         }

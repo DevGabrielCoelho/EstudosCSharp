@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mEK4mWL//l4KMWQ4bvx8QXLhFC/VBkJlVnX9k75KcSODfj3IW73jtMr+67a3zMghkI2XCug3/QhNCJmxiUc9Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\CursoProgramacaoOrientadaAObjetosCSharp\\ExercicioListas\\ExercicioListas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.3\\microsoft.netcore.app.host.win-x64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

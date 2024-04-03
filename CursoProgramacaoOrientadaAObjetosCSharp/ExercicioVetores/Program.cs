@@ -20,14 +20,18 @@ namespace ExercicioVetores
                 quartos[numeroDoQuarto] = new Quartos { Nome = nome, Email = email };
             }
 
-            Console.WriteLine("\nQuartos comprados:");
+            Quartos.Abiaba(quartos);
+
+
+
+           /* Console.WriteLine("\nQuartos comprados:");
             for (int i = 0; i < quartos.Length; i++) 
             {
                 if (quartos[i] != null)
                 {
                     Console.WriteLine($"{i}: {quartos[i].Nome}, {quartos[i].Email}");
                 }
-            }
+            } */
         }
     }
 }
