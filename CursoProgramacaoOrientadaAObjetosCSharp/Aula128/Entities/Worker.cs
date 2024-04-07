@@ -1,7 +1,4 @@
 ﻿using Aula128.Entities.Enums;
-using Aula128.Entities;
-using System.Collections.Generic;
-using System.Diagnostics.Contracts;
 
 namespace Aula128.Entities
 {
@@ -13,12 +10,12 @@ namespace Aula128.Entities
         public Departament Departament { get; set; } = new Departament();
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
 
-        public Worker(string name, WorkerLevel level, double baseSalary, string departament)
+        public Worker(string name, WorkerLevel level, double baseSalary, Departament departament)
         {
             Name = name;
             Level = level;
             BaseSalary = baseSalary;
-            Departament.Name = departament;
+            Departament = departament;
         }
 
         public void AddContract(HourContract contract)
@@ -31,25 +28,16 @@ namespace Aula128.Entities
         }
         public double Income(int year, int mounth)
         {
-            double contractValue = 0;
+            double contractValue = BaseSalary;
 
-            for (int i = 0; i < Contracts.Count; i++)
-            {
-                if (Contracts[i].Date.Month != mounth || Contracts[i].Date.Year != year)
-                {
-                    HourContract contractRemove = Contracts[i];
-                    Contracts.Remove(contractRemove);
-                }
-            }
-             
             for (int i = 0;  i < Contracts.Count; i++)
             {
-                HourContract contractCount = Contracts[i];
-                contractValue += contractCount.TotalValue();
+                if (Contracts[i].Date.Year == year && Contracts[i].Date.Month == mounth)
+                {
+                    contractValue += Contracts[i].TotalValue();
+                }
             }
-            return contractValue + BaseSalary;
-
-
+            return contractValue;
         }
     }
 }

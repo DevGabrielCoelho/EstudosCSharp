@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Diagnostics.Contracts;
 using System.Globalization;
 using Aula128.Entities;
 using Aula128.Entities.Enums;
@@ -12,6 +11,7 @@ namespace Aula128
         {
             Console.Write("Enter department's name: ");
             string departamentName = Console.ReadLine();
+            Departament departament = new Departament(departamentName);
             Console.Write("\nEnter worker data:\n" +
                               "Name: ");
             string workerName = Console.ReadLine();
@@ -19,7 +19,7 @@ namespace Aula128
             WorkerLevel workerLevel = WorkerLevel.Parse<WorkerLevel>(Console.ReadLine());
             Console.Write("Base salary: ");
             double workerBaseSalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Worker worker = new Worker(workerName, workerLevel, workerBaseSalary, departamentName);
+            Worker worker = new Worker(workerName, workerLevel, workerBaseSalary, departament);
 
             Console.Write("\nHow many contracts to this worker? ");
             int workerContracts = int.Parse(Console.ReadLine());
@@ -42,7 +42,7 @@ namespace Aula128
             double incomeValue = worker.Income(int.Parse(incomeData.Year.ToString()), int.Parse(incomeData.Month.ToString()));
             Console.WriteLine($"\nName: {worker.Name}\n" +
                               $"Departament: {worker.Departament.Name}\n" +
-                              $"Income for {incomeData.ToString("MM/yyyy    ", CultureInfo.InvariantCulture)}: {incomeValue.ToString("f2", CultureInfo.InvariantCulture)}");
+                              $"Income for {incomeData.ToString("MM/yyyy", CultureInfo.InvariantCulture)}: {incomeValue.ToString("f2", CultureInfo.InvariantCulture)}");
 
         }
     }
