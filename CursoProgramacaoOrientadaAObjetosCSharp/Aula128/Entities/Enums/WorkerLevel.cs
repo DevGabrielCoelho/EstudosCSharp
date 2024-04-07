@@ -1,4 +1,4 @@
-﻿namespace Aula128.Entities.Enums
+﻿namespace ExercicioResolvido01.Entities.Enums
 {
     enum WorkerLevel : int
     {

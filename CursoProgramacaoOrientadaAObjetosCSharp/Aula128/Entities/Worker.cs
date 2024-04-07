@@ -1,6 +1,6 @@
-﻿using Aula128.Entities.Enums;
+﻿using ExercicioResolvido01.Entities.Enums;
 
-namespace Aula128.Entities
+namespace ExercicioResolvido01.Entities
 {
     class Worker
     {

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
-using Aula128.Entities;
-using Aula128.Entities.Enums;
+using ExercicioResolvido01.Entities;
+using ExercicioResolvido01.Entities.Enums;
 
-namespace Aula128
+namespace ExercicioResolvido01
 {
     class Program
     {

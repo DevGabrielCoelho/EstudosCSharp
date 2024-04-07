@@ -1,4 +1,4 @@
-﻿namespace Aula128.Entities
+﻿namespace ExercicioResolvido01.Entities
 {
     internal class HourContract
     {
