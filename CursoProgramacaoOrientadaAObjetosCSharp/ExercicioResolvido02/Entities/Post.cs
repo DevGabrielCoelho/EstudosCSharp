@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Security.Cryptography;
+using System.Text;
 using ExercicioResolvido02.Entities;
 
 namespace ExercicioResolvido02.Entities
@@ -33,5 +34,20 @@ namespace ExercicioResolvido02.Entities
             Comments.Remove(comments);
         }
 
+        public override string ToString()
+        {
+            StringBuilder sb = new();
+            sb.AppendLine(Title);
+            sb.Append(Likes);
+            sb.Append(" likes - ");
+            sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine(Content);
+            sb.AppendLine("Comments:");
+            foreach (Comment comment in Comments)
+            {
+                sb.AppendLine(comment.Text);
+            }
+            return sb.ToString();
+        }
     }
 }

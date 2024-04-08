@@ -29,7 +29,7 @@ namespace ExercicioResolvido02
             posts[0].Comments.AddRange(new Comment[] { new Comment("Have a nice trip"), new Comment("Wow that's awesome!") });
             posts[1].Comments.AddRange(new Comment[] { new Comment("Good night"), new Comment("May the Force be with you") });
 
-            foreach (Post posted in posts)
+            /*foreach (Post posted in posts)
             {
                 Console.WriteLine($"{posted.Title}\n" +
                                   $"{posted.Likes} - {posted.Moment}\n" +
@@ -40,6 +40,11 @@ namespace ExercicioResolvido02
                     Console.WriteLine(commented.Text);
                 }
                 Console.WriteLine();
+            }*/
+
+            foreach (Post post in posts)
+            {
+                Console.WriteLine(post);
             }
         }
     }
