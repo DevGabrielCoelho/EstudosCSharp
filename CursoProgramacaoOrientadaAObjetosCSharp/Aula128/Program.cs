@@ -44,6 +44,7 @@ namespace ExercicioResolvido01
                               $"Departament: {worker.Departament.Name}\n" +
                               $"Income for {incomeData.ToString("MM/yyyy", CultureInfo.InvariantCulture)}: {incomeValue.ToString("f2", CultureInfo.InvariantCulture)}");
 
+            
         }
     }
 }
