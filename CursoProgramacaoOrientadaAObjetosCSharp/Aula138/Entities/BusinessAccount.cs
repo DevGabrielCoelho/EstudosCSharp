@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using System.Globalization;
 
-namespace Aula135.Entities
+namespace Aula138.Entities
 {
     class BusinessAccount : Account
     {
@@ -9,6 +9,12 @@ namespace Aula135.Entities
 
         public BusinessAccount()
         {
+        }
+
+        public override void WithDraw(double amount)//override é usado para sobrescrever um metodo de uma superclass em uma subclass
+        {
+            base.WithDraw(amount); //base é usado para manter os parametros usados no metodo da superclass
+            Balance -= amount + 2.00;
         }
 
         public BusinessAccount(int number, string holder, double balance, double loanLimit) : base(number, holder, balance)

@@ -1,9 +1,8 @@
-﻿using Aula135.Entities;
-using Aula135_1_.Entities;
+﻿using Aula138.Entities;
 using System;
 using System.Globalization;
 
-namespace Aula135
+namespace Aula138
 {
     class Program
     {
@@ -23,13 +22,13 @@ namespace Aula135
 
             if (account is BusinessAccount) Console.WriteLine("account é businessAccount");
             else Console.WriteLine("account não é businessAccount");
-            
+
             if (account1 is SavingsAccount) Console.WriteLine("account é savingsAccount");
             else Console.WriteLine("account não é savingsAccount");
 
             if (businessAccount1 is Account) Console.WriteLine("\nbusinessAccount1 é account");
             else Console.WriteLine("\nbusinessAccount1 não é account");
-            
+
             if (savingsAccount is Account) Console.WriteLine("savingsAccount é account");
             else Console.WriteLine("savingsAccount não é account");
 

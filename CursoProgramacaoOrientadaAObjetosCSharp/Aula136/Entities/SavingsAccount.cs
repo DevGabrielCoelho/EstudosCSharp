@@ -1,6 +1,6 @@
-﻿using Aula135.Entities;
+﻿using Aula136.Entities;
 
-namespace Aula135_1_.Entities
+namespace Aula136.Entities
 {
     class SavingsAccount : Account
     {

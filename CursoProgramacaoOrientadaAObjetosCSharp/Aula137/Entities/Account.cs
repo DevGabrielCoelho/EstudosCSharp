@@ -1,6 +1,4 @@
-﻿using System.Numerics;
-
-namespace Aula135.Entities
+﻿namespace Aula137.Entities
 {
     class Account
     {
@@ -19,7 +17,7 @@ namespace Aula135.Entities
             Balance = balance;
         }
 
-        public void WithDraw(double amount)
+        public virtual void WithDraw(double amount) //virtual é usado nos metodos da superclass incando que eles podem ser sobrescritos em uma subclass
         {
             Balance -= amount;
         }
