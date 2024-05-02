@@ -7,9 +7,9 @@ namespace Aula195
     {
         static void Main(string[] args) 
         {
-            FileInfo file = new FileInfo("https://github.com/NUBsGP/NUBsGP/blob/main/README.md");
-            file.CopyTo(@"C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula195\TextTest02.txt");
-            string[] textLines = File.ReadAllLines(@"C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula195\TextTest02.txt");
+            FileInfo file = new FileInfo(@"Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula195\TextTest01.txt");
+            file.CopyTo(@"Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula195\TextTest02.txt");
+            string[] textLines = File.ReadAllLines(@"Estudos\CursoProgramacaoOrientadaAObjetosCSharp\Aula195\TextTest02.txt");
             foreach (string line in textLines) 
             {
                 Console.WriteLine(line);
