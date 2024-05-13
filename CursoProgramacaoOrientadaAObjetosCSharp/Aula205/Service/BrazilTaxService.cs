@@ -1,6 +1,6 @@
 ﻿namespace Aula205.Service
 {
-    internal class BrazilTaxService
+    internal class BrazilTaxService : ITaxService
     {
         public double Tax(double amount)
         {
@@ -9,3 +9,4 @@
         }
     }
 }
+ 

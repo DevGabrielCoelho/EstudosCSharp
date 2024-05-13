@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Aula205.Service
+﻿namespace Aula205.Service
 {
     internal interface ITaxService
     {
+        public double Tax(double amount);
     }
 }
