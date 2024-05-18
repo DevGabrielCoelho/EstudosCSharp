@@ -3,16 +3,12 @@
     internal class Log
     {
         public string Name { get; private set; }
-        public DateTime Logon {  get; private set; }
+        public DateTime Logon { get; private set; }
 
         public Log(string name, DateTime log)
         {
             Name = name;
             Logon = log;
-        }
-        public Log(string name)
-        {
-            Name = name;
         }
 
         public override int GetHashCode()
