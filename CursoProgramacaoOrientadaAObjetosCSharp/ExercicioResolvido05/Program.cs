@@ -13,7 +13,7 @@ namespace ExercicioResolvido05
                 List<Product> products = new List<Product>();
 
                 Console.Write("Enter full file path: ");
-                using (StreamReader streamReader = File.OpenText(@"C:\Estudos\CursoProgramacaoOrientadaAObjetosCSharp\ExercicioResolvido05\in.txt"))
+                using (StreamReader streamReader = File.OpenText(Console.ReadLine()))
                 {
                     while (!streamReader.EndOfStream)
                     {
@@ -25,18 +25,14 @@ namespace ExercicioResolvido05
                 double average = products.Average(x => x.Price);
                 Console.WriteLine($"Average: ${average.ToString("f2", CultureInfo.InvariantCulture)}");
 
-                IOrderedEnumerable<Product> p = products.Where(x => x.Price < average).OrderByDescending(x => x.Name);
-                foreach (Product x in p)
-                {
-                    Console.WriteLine(x.Name);
-                }
+                IEnumerable<string> averageProducts = products.
+                    Where(product => product.Price < average).
+                    OrderByDescending(product => product.Name).
+                    Select(product => product.Name);
+                foreach (string name in averageProducts) Console.WriteLine(name);
             }
 
-            catch (Exception ex)
-            {
-                Console.WriteLine("Error! " + ex.Message + "!");
-                Console.ReadLine();
-            }
+            catch (Exception ex) { Console.WriteLine("Error! " + ex.Message + "!"); }
         }
     }
 }
