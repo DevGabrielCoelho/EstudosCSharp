@@ -1,42 +1,16 @@
-﻿using Entities;
-using System;
-using System.Globalization;
-using System.Linq;
-
-namespace ExercicioProposto04
+﻿namespace ExercicioProposto04
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            List<Employee> employees = new List<Employee>();
-
-            Console.Write("Enter full file path: ");
-            using (StreamReader streamReader = File.OpenText(Console.ReadLine()))
+            for (int i = 0; i < 3; i++)
             {
-                while (!streamReader.EndOfStream)
+                for (int j = 0; j < 3; j++)
                 {
-                    string[] stringSplit = streamReader.ReadLine().Split(',');
-                    employees.Add(
-                        new Employee(
-                            stringSplit[0],
-                            stringSplit[1],
-                            double.Parse(stringSplit[2], CultureInfo.InvariantCulture)
-                        )
-                    );
+                    Console.WriteLine(i + "" + j);
                 }
             }
-
-            Console.Write("\nEnter salary: $");
-            double salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            IEnumerable<string> emailsMoreThanSalary = employees.
-                Where(emp => emp.Salary > salary).
-                Select(emp => emp.Email).
-                OrderBy(emp => emp);
-            foreach ( string email in emailsMoreThanSalary ) Console.WriteLine(email);
-
-            double sum = employees.Where(emp => emp.Name[0] == 'M').Sum(emp => emp.Salary);
-            Console.WriteLine($"\nSum of salary of people whose name starts with 'M': ${sum.ToString("f2", CultureInfo.InvariantCulture)}");
         }
     }
 }
