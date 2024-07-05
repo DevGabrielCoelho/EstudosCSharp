@@ -1,5 +1,7 @@
-﻿using APITest.Model;
-using APITest.Model.ViewModel;
+﻿using APITest.Application.ViewModel;
+using APITest.Domain.DTOs;
+using APITest.Domain.Model.EmployeeAggregate;
+using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,10 +12,14 @@ namespace APITest.Controllers
     public class EmployeeController : Controller
     {
         private readonly IEmployeeRepository _employeeRepository;
+        private readonly ILogger<EmployeeController> _logger;
+        private readonly IMapper _mapper;
 
-        public EmployeeController(IEmployeeRepository employeeRepository)
+        public EmployeeController(IEmployeeRepository employeeRepository, ILogger<EmployeeController> logger, IMapper mapper)
         {
-            _employeeRepository = employeeRepository;
+            _employeeRepository = employeeRepository ?? throw new ArgumentNullException(nameof(employeeRepository));
+            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
+            _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
         }
 
         [Authorize]
@@ -42,10 +48,22 @@ namespace APITest.Controllers
 
         [Authorize]
         [HttpGet]
-        public IActionResult Get()
+        public IActionResult Get(int pageNumber, int pageQuantity)
         {
-            var a = _employeeRepository.Get();
+            _logger.Log(LogLevel.Error, "Error!");
+            var a = _employeeRepository.Get(pageNumber, pageQuantity);
+            _logger.LogInformation("twst");
             return Ok(a);
+        }
+
+        [Authorize]
+        [HttpGet]
+        [Route("{id}")]
+        public IActionResult Search(int id)
+        {
+            var employee = _employeeRepository.GetEmployee(id);
+            var employeeDTO = _mapper.Map<EmployeeDTO>(employee);
+            return Ok(employeeDTO);
         }
     }
 }

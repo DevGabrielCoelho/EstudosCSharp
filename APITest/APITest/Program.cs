@@ -1,17 +1,19 @@
 using APITest;
-using APITest.Infrastructure;
-using APITest.Model;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.OpenApi.Models;
+using APITest.Infrastructure.Repositories;
+using APITest.Application.Mapping;
+using APITest.Domain.Model.EmployeeAggregate;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddScoped<EmployeeRepository>();
-builder.Services.AddControllers();
+builder.Services.AddControllers(); 
+builder.Services.AddAutoMapper(typeof(DomainToDTOMapping));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(x =>
@@ -68,9 +70,11 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    app.UseExceptionHandler("/error-development");
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+else app.UseExceptionHandler("/error");
 
 app.UseHttpsRedirection();
 

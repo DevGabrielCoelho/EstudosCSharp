@@ -1,7 +1,8 @@
-﻿using APITest.Model;
+﻿using APITest.Domain.DTOs;
+using APITest.Domain.Model.EmployeeAggregate;
 using Microsoft.AspNetCore.Mvc;
 
-namespace APITest.Infrastructure
+namespace APITest.Infrastructure.Repositories
 {
     public class EmployeeRepository : IEmployeeRepository
     {
@@ -18,9 +19,9 @@ namespace APITest.Infrastructure
             _connectionContext.SaveChanges();
         }
 
-        public List<Employee> Get()
+        public List<EmployeeDTO> Get(int pageNumber, int pageQuantity)
         {
-            return _connectionContext.Employees.ToList();
+            return _connectionContext.Employees.Skip(pageNumber * pageQuantity).Take(pageQuantity).Select(x => new EmployeeDTO() { Id = x.Id, NameEmployee = x.Name, Photo = x.Photo}).ToList();
         }
 
         public Employee? GetEmployee(int id)

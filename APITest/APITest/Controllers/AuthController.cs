@@ -1,5 +1,5 @@
-﻿using APITest.Model;
-using APITest.Services;
+﻿using APITest.Application.Services;
+using APITest.Domain.Model.EmployeeAggregate;
 using Microsoft.AspNetCore.Mvc;
 
 namespace APITest.Controllers

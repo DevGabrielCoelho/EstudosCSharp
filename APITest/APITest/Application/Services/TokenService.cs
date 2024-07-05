@@ -1,10 +1,10 @@
-﻿using APITest.Model;
+﻿using APITest.Domain.Model.EmployeeAggregate;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace APITest.Services
+namespace APITest.Application.Services
 {
     public class TokenService
     {
@@ -28,7 +28,7 @@ namespace APITest.Services
             return new
             {
                 token = tokenString
-                
+
             };
         }
     }

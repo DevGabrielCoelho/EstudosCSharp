@@ -1,4 +1,4 @@
-﻿using APITest.Model;
+﻿using APITest.Domain.Model.EmployeeAggregate;
 using Microsoft.EntityFrameworkCore;
 
 namespace APITest.Infrastructure
