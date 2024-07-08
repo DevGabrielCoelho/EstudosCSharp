@@ -1,10 +1,10 @@
-﻿using APITest2.Model;
+﻿using APITest2.Domain.Model;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace APITest2.Services
+namespace APITest2.Application.Services
 {
     public class TokenService
     {

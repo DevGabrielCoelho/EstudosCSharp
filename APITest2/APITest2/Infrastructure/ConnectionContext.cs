@@ -1,4 +1,4 @@
-﻿using APITest2.Model;
+﻿using APITest2.Domain.Model;
 using Microsoft.EntityFrameworkCore;
 
 namespace APITest2.Infrastructure

@@ -1,4 +1,4 @@
-﻿namespace APITest2.Model.ViewModel
+﻿namespace APITest2.Application.ViewModel
 {
     public class EmployeeViewModel
     {

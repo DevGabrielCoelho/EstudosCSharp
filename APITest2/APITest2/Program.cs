@@ -1,6 +1,6 @@
 using APITest2;
-using APITest2.Infrastructure;
-using APITest2.Model;
+using APITest2.Domain.Model;
+using APITest2.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ApiExplorer;

@@ -1,4 +1,4 @@
-﻿using APITest2.Services;
+﻿using APITest2.Application.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace APITest2.Controllers
@@ -12,7 +12,7 @@ namespace APITest2.Controllers
         {
             if (username == "developer" && password == "123qwer")
             {
-                Object token = TokenService.GenerateToken(new Model.Employee());
+                Object token = TokenService.GenerateToken(new Domain.Model.Employee());
                 return Ok(token);
             }
 

@@ -1,5 +1,6 @@
-﻿using APITest2.Model;
-using APITest2.Model.ViewModel;
+﻿using APITest2.Application.ViewModel;
+using APITest2.Domain.DTOs;
+using APITest2.Domain.Model;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -34,7 +35,7 @@ namespace APITest2.Controllers
         [HttpGet]
         public IActionResult Get(int pageNumber, int pageQuantity)
         {
-            List<Employee> list = _employeeRepository.Get(pageNumber, pageQuantity);
+            List<EmployeeDTO> list = _employeeRepository.Get(pageNumber, pageQuantity);
             return Ok(list);
         }
 
