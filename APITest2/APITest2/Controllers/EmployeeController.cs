@@ -1,6 +1,7 @@
 ﻿using APITest2.Application.ViewModel;
 using APITest2.Domain.DTOs;
 using APITest2.Domain.Model;
+using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,12 +12,12 @@ namespace APITest2.Controllers
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeRepository _employeeRepository;
-        private readonly ILogger<EmployeeController> _logger;
+        private readonly IMapper _mapper;
 
-        public EmployeeController(IEmployeeRepository employeeRepository, ILogger<EmployeeController> logger)
+        public EmployeeController(IEmployeeRepository employeeRepository, IMapper mapper)
         {
             _employeeRepository = employeeRepository ?? throw new ArgumentNullException(nameof(employeeRepository));
-            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
+            _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
         }
 
         [HttpPost]
@@ -39,11 +40,20 @@ namespace APITest2.Controllers
             return Ok(list);
         }
 
+        [HttpGet]
+        [Route("{id}")]
+        public IActionResult Search(int id)
+        {
+            Employee? employee = _employeeRepository.Get(id);
+            EmployeeDTO employeeDTO = _mapper.Map<EmployeeDTO>(employee);
+            return Ok(employeeDTO);
+        }
+
         [HttpPost]
         [Route("{id}/download")]
         public IActionResult DownloadPhoto(int id)
         {
-            Employee employee = _employeeRepository.Get(id);
+            Employee? employee = _employeeRepository.Get(id);
             byte[] dataBytes = System.IO.File.ReadAllBytes(employee.Photo);
             return File(dataBytes, "image/png");
         }
