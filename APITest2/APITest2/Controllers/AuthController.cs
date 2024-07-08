@@ -7,7 +7,7 @@ namespace APITest2.Controllers
     [Route("api/v1/auth")]
     public class AuthController : Controller
     {
-        [HttpGet]
+        [HttpPost]
         public IActionResult Auth(string username, string password)
         {
             if (username == "developer" && password == "123qwer")
