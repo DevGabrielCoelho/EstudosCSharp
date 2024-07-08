@@ -12,7 +12,7 @@ namespace APITest2.Controllers
         {
             if (username == "developer" && password == "123qwer")
             {
-                Object token = TokenService.GenerateToken(new Domain.Model.Employee());
+                Object token = TokenService.GenerateToken(new Domain.Model.EmployeeAggregate.Employee());
                 return Ok(token);
             }
 

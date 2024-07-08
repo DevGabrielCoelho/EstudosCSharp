@@ -1,6 +1,6 @@
 ﻿using APITest2.Application.ViewModel;
 using APITest2.Domain.DTOs;
-using APITest2.Domain.Model;
+using APITest2.Domain.Model.EmployeeAggregate;
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;

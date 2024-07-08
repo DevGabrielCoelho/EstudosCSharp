@@ -1,5 +1,5 @@
 ﻿using APITest2.Domain.DTOs;
-using APITest2.Domain.Model;
+using APITest2.Domain.Model.EmployeeAggregate;
 using AutoMapper;
 
 namespace APITest2.Application.Mapping

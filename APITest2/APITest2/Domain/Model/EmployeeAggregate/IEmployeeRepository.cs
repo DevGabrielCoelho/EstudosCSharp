@@ -1,6 +1,6 @@
 ﻿using APITest2.Domain.DTOs;
 
-namespace APITest2.Domain.Model
+namespace APITest2.Domain.Model.EmployeeAggregate
 {
     public interface IEmployeeRepository
     {

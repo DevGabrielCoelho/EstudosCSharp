@@ -1,7 +1,7 @@
-﻿using APITest2.Domain.Model;
-using APITest2.Domain.DTOs;
+﻿using APITest2.Domain.DTOs;
 using System.Collections.Generic;
 using System.Linq;
+using APITest2.Domain.Model.EmployeeAggregate;
 
 namespace APITest2.Infrastructure.Repositories
 {
