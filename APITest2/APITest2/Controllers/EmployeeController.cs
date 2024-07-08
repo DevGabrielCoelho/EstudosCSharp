@@ -10,13 +10,14 @@ namespace APITest2.Controllers
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeRepository _employeeRepository;
+        private readonly ILogger<EmployeeController> _logger;
 
-        public EmployeeController(IEmployeeRepository employeeRepository)
+        public EmployeeController(IEmployeeRepository employeeRepository, ILogger<EmployeeController> logger)
         {
             _employeeRepository = employeeRepository ?? throw new ArgumentNullException(nameof(employeeRepository));
+            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
         }
 
-        [Authorize]
         [HttpPost]
         public IActionResult Add([FromForm]EmployeeViewModel employeeViewModel)
         {
@@ -30,15 +31,13 @@ namespace APITest2.Controllers
             return Ok();
         }
 
-        [Authorize]
         [HttpGet]
-        public IActionResult Get()
+        public IActionResult Get(int pageNumber, int pageQuantity)
         {
-            List<Employee> list = _employeeRepository.Get();
+            List<Employee> list = _employeeRepository.Get(pageNumber, pageQuantity);
             return Ok(list);
         }
 
-        [Authorize]
         [HttpPost]
         [Route("{id}/download")]
         public IActionResult DownloadPhoto(int id)

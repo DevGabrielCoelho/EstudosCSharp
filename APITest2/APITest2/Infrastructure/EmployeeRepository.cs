@@ -11,9 +11,9 @@ namespace APITest2.Infrastructure
             _connectionContext.SaveChanges();
         }
 
-        public List<Employee> Get()
+        public List<Employee> Get(int pageNumber, int pageQuantity)
         {
-            return _connectionContext.Employees.ToList();
+            return _connectionContext.Employees.Skip(pageNumber * pageQuantity).Take(pageQuantity).ToList();
         }
 
         public Employee? Get(int id)
