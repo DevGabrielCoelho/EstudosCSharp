@@ -9,8 +9,11 @@ using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Asp.Versioning;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using System.Text;
+using APITest2.Application.Swagger;
+using Asp.Versioning.ApiExplorer;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,8 +24,21 @@ builder.Services.AddControllers();
 builder.Services.AddAutoMapper(typeof(DomainToDTOMapping));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
+
+builder.Services.AddApiVersioning(o =>
+{
+    o.AssumeDefaultVersionWhenUnspecified = true;
+    o.DefaultApiVersion = new ApiVersion(1, 0);
+}).AddApiExplorer(setup =>
+{
+    setup.GroupNameFormat = "'v'VVV";
+    setup.SubstituteApiVersionInUrl = true;
+});
+
 builder.Services.AddSwaggerGen(c =>
 {
+    c.OperationFilter<SwaggerDefaultValues>();
+
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         Name = "Authorization",
@@ -54,6 +70,7 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 builder.Services.AddTransient<IEmployeeRepository, EmployeeRepository>();
+builder.Services.AddTransient<IConfigureOptions<SwaggerGenOptions>, ConfigureSwaggerGenOptions>();
 
 byte[] key = Encoding.ASCII.GetBytes(APITest2.Key.Secret);
 
@@ -75,13 +92,21 @@ builder.Services.AddAuthentication(x =>
 });
 
 var app = builder.Build();
+var versionDescriptionProvider = app.Services.GetRequiredService<IApiVersionDescriptionProvider>();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/error-development");
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(options =>
+    {
+        foreach (var description in versionDescriptionProvider.ApiVersionDescriptions)
+        {
+            options.SwaggerEndpoint($"/swagger/{description.GroupName}/swagger.json",
+                $"APITest2 - {description.GroupName.ToUpper()}");
+        }
+    });
 }
 else
 {

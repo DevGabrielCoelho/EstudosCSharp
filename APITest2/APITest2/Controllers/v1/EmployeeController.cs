@@ -1,14 +1,16 @@
 ﻿using APITest2.Application.ViewModel;
 using APITest2.Domain.DTOs;
 using APITest2.Domain.Model.EmployeeAggregate;
+using Asp.Versioning;
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace APITest2.Controllers
+namespace APITest2.Controllers.v1
 {
     [ApiController]
-    [Route("api/v1/Employee")]
+    [Route("api/v{version:apiVersion}/Employee")]
+    [ApiVersion("1.0")]
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeRepository _employeeRepository;
@@ -21,7 +23,7 @@ namespace APITest2.Controllers
         }
 
         [HttpPost]
-        public IActionResult Add([FromForm]EmployeeViewModel employeeViewModel)
+        public IActionResult Add([FromForm] EmployeeViewModel employeeViewModel)
         {
             string filePath = Path.Combine("Storage", employeeViewModel.Photo.FileName);
 
@@ -37,6 +39,15 @@ namespace APITest2.Controllers
         public IActionResult Get(int pageNumber, int pageQuantity)
         {
             List<EmployeeDTO> list = _employeeRepository.Get(pageNumber, pageQuantity);
+            return Ok(list);
+        }
+
+        [HttpGet]
+        [ApiExplorerSettings(IgnoreApi = true)]
+        [Route("all")]
+        public IActionResult Get()
+        {
+            List<EmployeeDTO> list = _employeeRepository.Get();
             return Ok(list);
         }
 

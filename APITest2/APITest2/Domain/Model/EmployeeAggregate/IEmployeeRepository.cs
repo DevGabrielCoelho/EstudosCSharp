@@ -7,6 +7,7 @@ namespace APITest2.Domain.Model.EmployeeAggregate
         void Add(Employee employee);
 
         List<EmployeeDTO> Get(int pageNumber, int pageQuantity);
+        List<EmployeeDTO> Get();
 
         Employee? Get(int id);
     }

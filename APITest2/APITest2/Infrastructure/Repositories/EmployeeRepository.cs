@@ -32,5 +32,17 @@ namespace APITest2.Infrastructure.Repositories
         {
             return _connectionContext.Employees.Find(id);
         }
+
+        public List<EmployeeDTO> Get()
+        {
+            return _connectionContext.Employees.Select(employee =>
+                new EmployeeDTO()
+                {
+                    Id = employee.Id,
+                    EmployeeName = employee.Name,
+                    Photo = employee.Photo
+                })
+                .ToList();
+        }
     }
 }
