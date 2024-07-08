@@ -1,5 +1,6 @@
 ﻿using APITest2.Model;
 using APITest2.Model.ViewModel;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace APITest2.Controllers
@@ -15,6 +16,7 @@ namespace APITest2.Controllers
             _employeeRepository = employeeRepository ?? throw new ArgumentNullException(nameof(employeeRepository));
         }
 
+        [Authorize]
         [HttpPost]
         public IActionResult Add([FromForm]EmployeeViewModel employeeViewModel)
         {
@@ -28,13 +30,15 @@ namespace APITest2.Controllers
             return Ok();
         }
 
+        [Authorize]
         [HttpGet]
         public IActionResult Get()
         {
             List<Employee> list = _employeeRepository.Get();
             return Ok(list);
         }
-        
+
+        [Authorize]
         [HttpPost]
         [Route("{id}/download")]
         public IActionResult DownloadPhoto(int id)
